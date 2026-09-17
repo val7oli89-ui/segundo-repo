@@ -11,4 +11,4 @@ llave publica la que se crea
 3. git push (nube)
 	1. pull (bajar)
 
-git:(main) code .
+code . (para abrir visual code)
